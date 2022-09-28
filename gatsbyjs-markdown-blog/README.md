@@ -1,2 +1,0 @@
-#JCWORLD-starter-hello-world
-
